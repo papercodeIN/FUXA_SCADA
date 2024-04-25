@@ -14,6 +14,12 @@
 
 - Added Dashboard for Modbus TCP Simulator Device using Modbus Slave
     
-    ![2](https://github.com/papercodeIN/FUXA_Web_SCADA_Project_Backup/blob/main/img/3.png)
+    ![3](https://github.com/papercodeIN/FUXA_Web_SCADA_Project_Backup/blob/main/img/3.png)
     
     [FusionAutomate - 25042024.json](https://github.com/papercodeIN/FUXA_Web_SCADA_Project_Backup/blob/main/FusionAutomate%20-%2025042024.json)
+
+- Added Dashboard for Modbus TCP Simulator Device using Modbus Slave
+    
+    ![4](https://github.com/papercodeIN/FUXA_Web_SCADA_Project_Backup/blob/main/img/4.png)
+    
+    [FusionAutomate - 25042024 - 1.json](https://github.com/papercodeIN/FUXA_Web_SCADA_Project_Backup/blob/main/FusionAutomate%20-%2025042024%20-%201.json)
