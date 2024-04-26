@@ -23,3 +23,11 @@
     ![4](https://github.com/papercodeIN/FUXA_Web_SCADA_Project_Backup/blob/main/img/4.png)
     
     [FusionAutomate - 25042024 - 1.json](https://github.com/papercodeIN/FUXA_Web_SCADA_Project_Backup/blob/main/FusionAutomate%20-%2025042024%20-%201.json)
+
+
+- Added Device Connection Status in Modbus TCP Dashboard Page and OPCUA Dashboard Page
+    
+    ![5](https://github.com/papercodeIN/FUXA_Web_SCADA_Project_Backup/blob/main/img/5.png)
+    ![6](https://github.com/papercodeIN/FUXA_Web_SCADA_Project_Backup/blob/main/img/6.png)
+    
+    [FusionAutomate - 26042024.json](https://github.com/papercodeIN/FUXA_Web_SCADA_Project_Backup/blob/main/FusionAutomate%20-%2026042024.json)
